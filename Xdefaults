@@ -1,0 +1,6 @@
+urxvt*background:	black
+urxvt*foreground:	snow
+urxvt*saveLines:	0
+
+urxvt*color4:		#5566FF
+urxvt*color12:		#7799FF
